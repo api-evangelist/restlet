@@ -1,0 +1,72 @@
+{
+    "name": "Restlet",
+    "description": "Restlet is a web API platform vendor, pioneer of RESTful web APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/90-restlet.jpg",
+    "tags": [
+        "cloud",
+        "deployment",
+        "design",
+        "have api",
+        "management",
+        "spreadsheets",
+        "studio"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/restlet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Restlet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/90-restlet.jpg",
+            "humanURL": "https:\/\/restlet.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/restlet.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/restlet.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/restlet"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/restlet"
+        },
+        {
+            "type": "Email",
+            "url": "contact@restlet.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@restlet.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/restlet.com\/documentation\/#faq"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/restlet"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/restlet"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/restlet.com\/"
+        }
+    ]
+}
